@@ -456,6 +456,11 @@ h1, h2, h3 {
     margin-top: 3rem;
 }
 
+.home-page .title {
+    padding: 1rem;
+}
+
+
 .home-page .projetos-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
